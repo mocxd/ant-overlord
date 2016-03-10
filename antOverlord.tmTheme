@@ -14,13 +14,13 @@
                 <key>background</key>
                 <string>#150C0B</string>
                 <key>caret</key>
-                <string>#FFFEF4</string>
+                <string>#ff263c</string>
                 <key>foreground</key>
                 <string>#FFFEF4</string>
                 <key>invisibles</key>
                 <string>#daae6d</string>
                 <key>lineHighlight</key>
-                <string>#420205</string>
+                <string>#380204</string>
                 <key>selection</key>
                 <string>#A30057</string>
 
